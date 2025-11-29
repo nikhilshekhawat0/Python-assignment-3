@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Test Title",
+    "author": "Author",
+    "isbn": "ISBN-0001",
+    "status": "available"
+  },
+  {
+    "title": "CLI Test",
+    "author": "Tester",
+    "isbn": "CLI-ISBN-001",
+    "status": "available"
+  },
+  {
+    "title": "jungle book",
+    "author": "jumanji",
+    "isbn": "18",
+    "status": "available"
+  },
+  {
+    "title": "html",
+    "author": "tim berners lee",
+    "isbn": "45",
+    "status": "available"
+  }
+]
